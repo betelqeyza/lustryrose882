@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: 5; position: fixed; top: 0; left: 0; height: 100%; object-fit: fill; width: 100%; opacity: 1; background-size:auto; background: url('https://github.com/lustryrose882/lustryrose882/assets/61117050/84578b71-33cb-46d3-8480-2a21082edf69');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: 5; position: fixed; top: 0; left: 0; height: 100%; object-fit: fill; width: 100vw; opacity: 1; background-size:auto; background: url('https://github.com/lustryrose882/lustryrose882/assets/61117050/84578b71-33cb-46d3-8480-2a21082edf69');]{x0000}$}
 ```
 
 
