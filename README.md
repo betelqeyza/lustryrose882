@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.7; background-size:cover; background: url('https://static.wikia.nocookie.net/omori/images/b/be/SOMETHING.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: fill; width: 1000%; opacity: 0.1; background-size:cover; background: url('https://github.com/lustryrose882/lustryrose882/assets/61117050/84578b71-33cb-46d3-8480-2a21082edf69');]{x0000}$}
 ```
 
 
