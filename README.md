@@ -1,21 +1,10 @@
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1; background: url('https://github.com/lustryrose882/lustryrose882/assets/61117050/84578b71-33cb-46d3-8480-2a21082edf69');]{x0000}$}
-```
-
-
 ### Hi there 👋
 
-<!--
-**lustryrose882/lustryrose882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on NOTHING.
+- 🌱 I’m currently learning nacho varga tyt matematik
+- 👯 I’m looking to collaborate on god
+- 🤔 I’m looking for help to be happy  
+- 💬 Ask me about how neuron activation mechanisms works
+- 📫 How to reach me: i dont know
+- 😄 Pronouns: xor/xnor
+- ⚡ Fun fact: gender dysphoria is so scary
