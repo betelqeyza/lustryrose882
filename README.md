@@ -7,4 +7,4 @@
 - 💬 Ask me about █████████
 - 📫 How to reach me: [DATA EXPUNGED]
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: [REDACTED]
